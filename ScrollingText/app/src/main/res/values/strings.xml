@@ -1,0 +1,36 @@
+<!--
+  ~ Copyright (C) 2018 Google Inc.
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~     http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+
+<resources>
+    <string name="app_name">Scrolling Text</string>
+    <string name="article_title">Stock Market</string>
+    <string name="article_subtitle">Definition of Stock</string>
+    <string name="article_text">A stock or share (also known as a companys "equity" is a financial instrument that represents ownership in a company or corporation and represents a proportionate claim on its assets (what it owns) and earnings (what it generates in profits)
+        \n\n
+        Stock ownership implies that the shareholder owns a slice of the company equal to the number of shares held as a proportion of the companys total outstanding shares. For instance, an individual or entity that owns 100,000 shares of a company with one million outstanding shares would have a 10% ownership stake in it. Most companies have outstanding shares that run into the millions or billions.
+                \n\n
+                <b>Common and Preferred Stock</b>
+        \n\nWhile there are two main types of stock—common and preferred—the term "equities" is synonymous with common shares, as their combined market value and trading volumes are many magnitudes larger than that of preferred shares.
+        \n\n
+        The main distinction between the two is that common shares usually carry voting rights that enable the common shareholder to have a say in corporate meetings (like the annual general meeting or AGM)—where matters such as election to the board of directors or appointment of auditors are voted upon—while preferred shares generally do not have voting rights. Preferred shares are so named because they have preference over the common shares in a company to receive dividends as well as assets in the event of a liquidation.\n\n
+        Common stock can be further classified in terms of their voting rights. While the basic premise of common shares is that they should have equal voting rights—one vote per share held—some companies have dual or multiple classes of stock with different voting rights attached to each class. In such a dual-class structure, Class A shares, for example, may have 10 votes per share, while the Class B "subordinate voting" shares may only have one vote per share.
+                Dual- or multiple-class share structures are designed to enable the founders of a company to control its fortunes, strategic direction and ability to innovate.\n\n
+        <b><i>Why a Company Issues Shares</i></b> —Todays corporate giant likely had its start as a small private entity launched by a visionary founder a few decades ago. Think of Jack Ma incubating Alibaba Group Holding Limited (BABA) from his apartment in Hangzhou, China, in 1999, or Mark Zuckerberg founding the earliest version of Facebook, Inc. (FB) from his Harvard University dorm room in 2004. Technology giants like these have become among the biggest companies in the world within a couple of decades.\n\n
+        <b><i>Raising Capital</i></b> — A startup can raise such capital either by selling shares (equity financing) or borrowing money (debt financing). Debt financing can be a problem for a startup because it may have few assets to pledge for a loan—especially in sectors such as technology or biotechnology, where a firm has few tangible assets—plus the interest on the loan would impose a financial burden in the early days, when the company may have no revenues or earnings.\n\n
+        <b><i>Listing Shares</i></b> — Once the companys shares are listed on a stock exchange and trading in it commences, the price of these shares will fluctuate as investors and traders assess and reassess their intrinsic value. There are many different ratios and metrics that can be used to value stocks, of which the single-most popular measure is probably the Price/Earnings (or PE) ratio. The stock analysis also tends to fall into one of two camps—fundamental analysis, or technical analysis.\n\n
+        <b><i>Stock Market Supply and Demand</i></b> — The stock market also offers a fascinating example of the laws of supply and demand at work in real time. For every stock transaction, there must be a buyer and a seller. Because of the immutable laws of supply and demand, if there are more buyers for a specific stock than there are sellers of it, the stock price will trend up. Conversely, if there are more sellers of the stock than buyers, the price will trend down.
+    </string>
+</resources>
