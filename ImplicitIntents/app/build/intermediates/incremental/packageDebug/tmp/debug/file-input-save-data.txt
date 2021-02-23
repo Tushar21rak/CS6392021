@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Mon Feb 22 16:03:10 EST 2021
+0.baseType=DIRECTORY
+0.base=R\:\\Pace\\Mobile App Development\\Assignment\\ImplicitIntents\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+0.path=classes.dex
+0.set=DEX
+count=1
