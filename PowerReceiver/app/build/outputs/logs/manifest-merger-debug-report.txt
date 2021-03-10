@@ -1,0 +1,103 @@
+-- Merging decision tree log ---
+manifest
+ADDED from R:\Pace\Mobile App Development\Zip\CS6392021-master\PowerReceiver\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from R:\Pace\Mobile App Development\Zip\CS6392021-master\PowerReceiver\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from R:\Pace\Mobile App Development\Zip\CS6392021-master\PowerReceiver\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from R:\Pace\Mobile App Development\Zip\CS6392021-master\PowerReceiver\app\src\main\AndroidManifest.xml:2:1-21:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\12019\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\2ce25ed286b20be0277c0198cf01057b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\12019\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\5e169c79002d88a0dedbbeb8eb7710ca\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\12019\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\e031b151e266071684c66449ec9522de\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\12019\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\629194f4a7b50063501b7796237599af\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\12019\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\c0cdb04fb897af07ff715774d25eaaa4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\12019\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\543bb451991cc8012e7b8beb57afbe5d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\12019\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\b612e5b74f693504634d4a91cefc1cb4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\12019\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\d089bf730bcf4e40088ba598ef4cac10\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\12019\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\3770382a7adf93435ee6e660b6c9bc9a\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\12019\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\d4966a5eec15e5acafc33095a2854994\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\12019\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\3a77409a7b5adebd999032f9b49dbd34\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\12019\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\4b27834dcb48457c73e0000c97942e2c\AndroidManifest.xml:17:1-22:12
+INJECTED from R:\Pace\Mobile App Development\Zip\CS6392021-master\PowerReceiver\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from R:\Pace\Mobile App Development\Zip\CS6392021-master\PowerReceiver\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from R:\Pace\Mobile App Development\Zip\CS6392021-master\PowerReceiver\app\src\main\AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from R:\Pace\Mobile App Development\Zip\CS6392021-master\PowerReceiver\app\src\main\AndroidManifest.xml:3:5-53
+		INJECTED from R:\Pace\Mobile App Development\Zip\CS6392021-master\PowerReceiver\app\src\main\AndroidManifest.xml
+		INJECTED from R:\Pace\Mobile App Development\Zip\CS6392021-master\PowerReceiver\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from R:\Pace\Mobile App Development\Zip\CS6392021-master\PowerReceiver\app\src\main\AndroidManifest.xml
+		ADDED from R:\Pace\Mobile App Development\Zip\CS6392021-master\PowerReceiver\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from R:\Pace\Mobile App Development\Zip\CS6392021-master\PowerReceiver\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from R:\Pace\Mobile App Development\Zip\CS6392021-master\PowerReceiver\app\src\main\AndroidManifest.xml
+		ADDED from R:\Pace\Mobile App Development\Zip\CS6392021-master\PowerReceiver\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from R:\Pace\Mobile App Development\Zip\CS6392021-master\PowerReceiver\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from R:\Pace\Mobile App Development\Zip\CS6392021-master\PowerReceiver\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from R:\Pace\Mobile App Development\Zip\CS6392021-master\PowerReceiver\app\src\main\AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\12019\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\5e169c79002d88a0dedbbeb8eb7710ca\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\12019\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\5e169c79002d88a0dedbbeb8eb7710ca\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from R:\Pace\Mobile App Development\Zip\CS6392021-master\PowerReceiver\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from R:\Pace\Mobile App Development\Zip\CS6392021-master\PowerReceiver\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from R:\Pace\Mobile App Development\Zip\CS6392021-master\PowerReceiver\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from R:\Pace\Mobile App Development\Zip\CS6392021-master\PowerReceiver\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from R:\Pace\Mobile App Development\Zip\CS6392021-master\PowerReceiver\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from R:\Pace\Mobile App Development\Zip\CS6392021-master\PowerReceiver\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.android.fundamentals.powerreceiver.MainActivity
+ADDED from R:\Pace\Mobile App Development\Zip\CS6392021-master\PowerReceiver\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from R:\Pace\Mobile App Development\Zip\CS6392021-master\PowerReceiver\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from R:\Pace\Mobile App Development\Zip\CS6392021-master\PowerReceiver\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from R:\Pace\Mobile App Development\Zip\CS6392021-master\PowerReceiver\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from R:\Pace\Mobile App Development\Zip\CS6392021-master\PowerReceiver\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from R:\Pace\Mobile App Development\Zip\CS6392021-master\PowerReceiver\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from R:\Pace\Mobile App Development\Zip\CS6392021-master\PowerReceiver\app\src\main\AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from R:\Pace\Mobile App Development\Zip\CS6392021-master\PowerReceiver\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from R:\Pace\Mobile App Development\Zip\CS6392021-master\PowerReceiver\app\src\main\AndroidManifest.xml
+INJECTED from R:\Pace\Mobile App Development\Zip\CS6392021-master\PowerReceiver\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\12019\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\2ce25ed286b20be0277c0198cf01057b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\12019\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\2ce25ed286b20be0277c0198cf01057b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\12019\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\5e169c79002d88a0dedbbeb8eb7710ca\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\12019\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\5e169c79002d88a0dedbbeb8eb7710ca\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\12019\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\e031b151e266071684c66449ec9522de\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\12019\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\e031b151e266071684c66449ec9522de\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\12019\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\629194f4a7b50063501b7796237599af\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\12019\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\629194f4a7b50063501b7796237599af\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\12019\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\c0cdb04fb897af07ff715774d25eaaa4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\12019\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\c0cdb04fb897af07ff715774d25eaaa4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\12019\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\543bb451991cc8012e7b8beb57afbe5d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\12019\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\543bb451991cc8012e7b8beb57afbe5d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\12019\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\b612e5b74f693504634d4a91cefc1cb4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\12019\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\b612e5b74f693504634d4a91cefc1cb4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\12019\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\d089bf730bcf4e40088ba598ef4cac10\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\12019\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\d089bf730bcf4e40088ba598ef4cac10\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\12019\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\3770382a7adf93435ee6e660b6c9bc9a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\12019\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\3770382a7adf93435ee6e660b6c9bc9a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\12019\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\d4966a5eec15e5acafc33095a2854994\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\12019\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\d4966a5eec15e5acafc33095a2854994\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\12019\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\3a77409a7b5adebd999032f9b49dbd34\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\12019\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\3a77409a7b5adebd999032f9b49dbd34\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\12019\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\4b27834dcb48457c73e0000c97942e2c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\12019\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\4b27834dcb48457c73e0000c97942e2c\AndroidManifest.xml:20:5-44
+INJECTED from R:\Pace\Mobile App Development\Zip\CS6392021-master\PowerReceiver\app\src\main\AndroidManifest.xml
+INJECTED from R:\Pace\Mobile App Development\Zip\CS6392021-master\PowerReceiver\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from R:\Pace\Mobile App Development\Zip\CS6392021-master\PowerReceiver\app\src\main\AndroidManifest.xml
+		ADDED from R:\Pace\Mobile App Development\Zip\CS6392021-master\PowerReceiver\app\src\main\AndroidManifest.xml
+		INJECTED from R:\Pace\Mobile App Development\Zip\CS6392021-master\PowerReceiver\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from R:\Pace\Mobile App Development\Zip\CS6392021-master\PowerReceiver\app\src\main\AndroidManifest.xml
+		ADDED from R:\Pace\Mobile App Development\Zip\CS6392021-master\PowerReceiver\app\src\main\AndroidManifest.xml
+		INJECTED from R:\Pace\Mobile App Development\Zip\CS6392021-master\PowerReceiver\app\src\main\AndroidManifest.xml

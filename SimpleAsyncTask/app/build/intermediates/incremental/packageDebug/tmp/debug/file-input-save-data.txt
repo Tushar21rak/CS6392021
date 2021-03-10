@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Tue Mar 09 17:55:30 EST 2021
+0.baseType=DIRECTORY
+0.base=R\:\\Pace\\Mobile App Development\\Zip\\CS6392021-master\\SimpleAsyncTask\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+0.path=classes.dex
+0.set=DEX
+count=1

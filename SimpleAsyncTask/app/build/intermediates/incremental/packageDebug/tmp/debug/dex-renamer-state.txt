@@ -1,0 +1,4 @@
+#Tue Mar 09 17:55:29 EST 2021
+base.0=R\:\\Pace\\Mobile App Development\\Zip\\CS6392021-master\\SimpleAsyncTask\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
