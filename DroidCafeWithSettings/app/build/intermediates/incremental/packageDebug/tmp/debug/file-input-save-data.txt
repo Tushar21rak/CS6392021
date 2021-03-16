@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Mon Mar 15 22:11:11 EDT 2021
+0.baseType=DIRECTORY
+0.base=R\:\\Pace\\Mobile App Development\\CloneToUpload\\DroidCafeWithSettings\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+0.path=classes.dex
+0.set=DEX
+count=1

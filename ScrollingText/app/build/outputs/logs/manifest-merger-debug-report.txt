@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from R:\Pace\Mobile App Development\Assignment\ScrollingText\app\src\main\AndroidManifest.xml:18:1-37:12
-INJECTED from R:\Pace\Mobile App Development\Assignment\ScrollingText\app\src\main\AndroidManifest.xml:18:1-37:12
-INJECTED from R:\Pace\Mobile App Development\Assignment\ScrollingText\app\src\main\AndroidManifest.xml:18:1-37:12
-INJECTED from R:\Pace\Mobile App Development\Assignment\ScrollingText\app\src\main\AndroidManifest.xml:18:1-37:12
+ADDED from R:\Pace\Mobile App Development\CloneToUpload\ScrollingText\app\src\main\AndroidManifest.xml:18:1-37:12
+INJECTED from R:\Pace\Mobile App Development\CloneToUpload\ScrollingText\app\src\main\AndroidManifest.xml:18:1-37:12
+INJECTED from R:\Pace\Mobile App Development\CloneToUpload\ScrollingText\app\src\main\AndroidManifest.xml:18:1-37:12
+INJECTED from R:\Pace\Mobile App Development\CloneToUpload\ScrollingText\app\src\main\AndroidManifest.xml:18:1-37:12
 MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\12019\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\7729f0fe31bfdbdec4bc43b7ec2a48d8\AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\12019\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\bffa85bfb3177e56cd05474dda23d479\AndroidManifest.xml:2:1-11:12
 MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\12019\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\b62b9568cfad570e385066849735c24a\AndroidManifest.xml:17:1-28:12
@@ -15,25 +15,25 @@ MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\12019\.grad
 MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\12019\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\1f487b1c30a0c508a1298d4251589e3e\AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:support-compat:26.1.0] C:\Users\12019\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\3b3f59836785e3d954da14a383be321c\AndroidManifest.xml:17:1-31:12
 MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\12019\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\9fde56441e0bb09590cd63a8161d427a\AndroidManifest.xml:17:1-30:12
-INJECTED from R:\Pace\Mobile App Development\Assignment\ScrollingText\app\src\main\AndroidManifest.xml:18:1-37:12
-INJECTED from R:\Pace\Mobile App Development\Assignment\ScrollingText\app\src\main\AndroidManifest.xml:18:1-37:12
-INJECTED from R:\Pace\Mobile App Development\Assignment\ScrollingText\app\src\main\AndroidManifest.xml:18:1-37:12
+INJECTED from R:\Pace\Mobile App Development\CloneToUpload\ScrollingText\app\src\main\AndroidManifest.xml:18:1-37:12
+INJECTED from R:\Pace\Mobile App Development\CloneToUpload\ScrollingText\app\src\main\AndroidManifest.xml:18:1-37:12
+INJECTED from R:\Pace\Mobile App Development\CloneToUpload\ScrollingText\app\src\main\AndroidManifest.xml:18:1-37:12
 	package
-		ADDED from R:\Pace\Mobile App Development\Assignment\ScrollingText\app\src\main\AndroidManifest.xml:19:5-48
-		INJECTED from R:\Pace\Mobile App Development\Assignment\ScrollingText\app\src\main\AndroidManifest.xml
-		INJECTED from R:\Pace\Mobile App Development\Assignment\ScrollingText\app\src\main\AndroidManifest.xml
+		ADDED from R:\Pace\Mobile App Development\CloneToUpload\ScrollingText\app\src\main\AndroidManifest.xml:19:5-48
+		INJECTED from R:\Pace\Mobile App Development\CloneToUpload\ScrollingText\app\src\main\AndroidManifest.xml
+		INJECTED from R:\Pace\Mobile App Development\CloneToUpload\ScrollingText\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from R:\Pace\Mobile App Development\Assignment\ScrollingText\app\src\main\AndroidManifest.xml
-		ADDED from R:\Pace\Mobile App Development\Assignment\ScrollingText\app\src\main\AndroidManifest.xml:18:1-37:12
-		INJECTED from R:\Pace\Mobile App Development\Assignment\ScrollingText\app\src\main\AndroidManifest.xml
+		INJECTED from R:\Pace\Mobile App Development\CloneToUpload\ScrollingText\app\src\main\AndroidManifest.xml
+		ADDED from R:\Pace\Mobile App Development\CloneToUpload\ScrollingText\app\src\main\AndroidManifest.xml:18:1-37:12
+		INJECTED from R:\Pace\Mobile App Development\CloneToUpload\ScrollingText\app\src\main\AndroidManifest.xml
 	android:versionCode
-		INJECTED from R:\Pace\Mobile App Development\Assignment\ScrollingText\app\src\main\AndroidManifest.xml
-		ADDED from R:\Pace\Mobile App Development\Assignment\ScrollingText\app\src\main\AndroidManifest.xml:18:1-37:12
-		INJECTED from R:\Pace\Mobile App Development\Assignment\ScrollingText\app\src\main\AndroidManifest.xml
+		INJECTED from R:\Pace\Mobile App Development\CloneToUpload\ScrollingText\app\src\main\AndroidManifest.xml
+		ADDED from R:\Pace\Mobile App Development\CloneToUpload\ScrollingText\app\src\main\AndroidManifest.xml:18:1-37:12
+		INJECTED from R:\Pace\Mobile App Development\CloneToUpload\ScrollingText\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from R:\Pace\Mobile App Development\Assignment\ScrollingText\app\src\main\AndroidManifest.xml:18:11-69
+		ADDED from R:\Pace\Mobile App Development\CloneToUpload\ScrollingText\app\src\main\AndroidManifest.xml:18:11-69
 application
-ADDED from R:\Pace\Mobile App Development\Assignment\ScrollingText\app\src\main\AndroidManifest.xml:21:5-35:19
+ADDED from R:\Pace\Mobile App Development\CloneToUpload\ScrollingText\app\src\main\AndroidManifest.xml:21:5-35:19
 MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\12019\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\7729f0fe31bfdbdec4bc43b7ec2a48d8\AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\12019\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\7729f0fe31bfdbdec4bc43b7ec2a48d8\AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\12019\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\bffa85bfb3177e56cd05474dda23d479\AndroidManifest.xml:9:5-20
@@ -57,35 +57,35 @@ MERGED from [com.android.support:support-compat:26.1.0] C:\Users\12019\.gradle\c
 MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\12019\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\9fde56441e0bb09590cd63a8161d427a\AndroidManifest.xml:24:5-28:19
 MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\12019\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\9fde56441e0bb09590cd63a8161d427a\AndroidManifest.xml:24:5-28:19
 	android:supportsRtl
-		ADDED from R:\Pace\Mobile App Development\Assignment\ScrollingText\app\src\main\AndroidManifest.xml:26:9-35
+		ADDED from R:\Pace\Mobile App Development\CloneToUpload\ScrollingText\app\src\main\AndroidManifest.xml:26:9-35
 	android:label
-		ADDED from R:\Pace\Mobile App Development\Assignment\ScrollingText\app\src\main\AndroidManifest.xml:24:9-41
+		ADDED from R:\Pace\Mobile App Development\CloneToUpload\ScrollingText\app\src\main\AndroidManifest.xml:24:9-41
 	android:roundIcon
-		ADDED from R:\Pace\Mobile App Development\Assignment\ScrollingText\app\src\main\AndroidManifest.xml:25:9-54
+		ADDED from R:\Pace\Mobile App Development\CloneToUpload\ScrollingText\app\src\main\AndroidManifest.xml:25:9-54
 	android:icon
-		ADDED from R:\Pace\Mobile App Development\Assignment\ScrollingText\app\src\main\AndroidManifest.xml:23:9-43
+		ADDED from R:\Pace\Mobile App Development\CloneToUpload\ScrollingText\app\src\main\AndroidManifest.xml:23:9-43
 	android:allowBackup
-		ADDED from R:\Pace\Mobile App Development\Assignment\ScrollingText\app\src\main\AndroidManifest.xml:22:9-35
+		ADDED from R:\Pace\Mobile App Development\CloneToUpload\ScrollingText\app\src\main\AndroidManifest.xml:22:9-35
 	android:theme
-		ADDED from R:\Pace\Mobile App Development\Assignment\ScrollingText\app\src\main\AndroidManifest.xml:27:9-40
+		ADDED from R:\Pace\Mobile App Development\CloneToUpload\ScrollingText\app\src\main\AndroidManifest.xml:27:9-40
 activity#com.example.android.scrollingtext.MainActivity
-ADDED from R:\Pace\Mobile App Development\Assignment\ScrollingText\app\src\main\AndroidManifest.xml:28:9-34:20
+ADDED from R:\Pace\Mobile App Development\CloneToUpload\ScrollingText\app\src\main\AndroidManifest.xml:28:9-34:20
 	android:name
-		ADDED from R:\Pace\Mobile App Development\Assignment\ScrollingText\app\src\main\AndroidManifest.xml:28:19-47
+		ADDED from R:\Pace\Mobile App Development\CloneToUpload\ScrollingText\app\src\main\AndroidManifest.xml:28:19-47
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from R:\Pace\Mobile App Development\Assignment\ScrollingText\app\src\main\AndroidManifest.xml:29:13-33:29
+ADDED from R:\Pace\Mobile App Development\CloneToUpload\ScrollingText\app\src\main\AndroidManifest.xml:29:13-33:29
 action#android.intent.action.MAIN
-ADDED from R:\Pace\Mobile App Development\Assignment\ScrollingText\app\src\main\AndroidManifest.xml:30:17-69
+ADDED from R:\Pace\Mobile App Development\CloneToUpload\ScrollingText\app\src\main\AndroidManifest.xml:30:17-69
 	android:name
-		ADDED from R:\Pace\Mobile App Development\Assignment\ScrollingText\app\src\main\AndroidManifest.xml:30:25-66
+		ADDED from R:\Pace\Mobile App Development\CloneToUpload\ScrollingText\app\src\main\AndroidManifest.xml:30:25-66
 category#android.intent.category.LAUNCHER
-ADDED from R:\Pace\Mobile App Development\Assignment\ScrollingText\app\src\main\AndroidManifest.xml:32:17-77
+ADDED from R:\Pace\Mobile App Development\CloneToUpload\ScrollingText\app\src\main\AndroidManifest.xml:32:17-77
 	android:name
-		ADDED from R:\Pace\Mobile App Development\Assignment\ScrollingText\app\src\main\AndroidManifest.xml:32:27-74
+		ADDED from R:\Pace\Mobile App Development\CloneToUpload\ScrollingText\app\src\main\AndroidManifest.xml:32:27-74
 uses-sdk
-INJECTED from R:\Pace\Mobile App Development\Assignment\ScrollingText\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from R:\Pace\Mobile App Development\Assignment\ScrollingText\app\src\main\AndroidManifest.xml
-INJECTED from R:\Pace\Mobile App Development\Assignment\ScrollingText\app\src\main\AndroidManifest.xml
+INJECTED from R:\Pace\Mobile App Development\CloneToUpload\ScrollingText\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from R:\Pace\Mobile App Development\CloneToUpload\ScrollingText\app\src\main\AndroidManifest.xml
+INJECTED from R:\Pace\Mobile App Development\CloneToUpload\ScrollingText\app\src\main\AndroidManifest.xml
 MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\12019\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\7729f0fe31bfdbdec4bc43b7ec2a48d8\AndroidManifest.xml:21:5-23:78
 MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\12019\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\7729f0fe31bfdbdec4bc43b7ec2a48d8\AndroidManifest.xml:21:5-23:78
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\12019\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\bffa85bfb3177e56cd05474dda23d479\AndroidManifest.xml:5:5-7:41
@@ -108,18 +108,18 @@ MERGED from [com.android.support:support-compat:26.1.0] C:\Users\12019\.gradle\c
 MERGED from [com.android.support:support-compat:26.1.0] C:\Users\12019\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\3b3f59836785e3d954da14a383be321c\AndroidManifest.xml:21:5-23:58
 MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\12019\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\9fde56441e0bb09590cd63a8161d427a\AndroidManifest.xml:20:5-22:41
 MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\12019\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\9fde56441e0bb09590cd63a8161d427a\AndroidManifest.xml:20:5-22:41
-INJECTED from R:\Pace\Mobile App Development\Assignment\ScrollingText\app\src\main\AndroidManifest.xml
-INJECTED from R:\Pace\Mobile App Development\Assignment\ScrollingText\app\src\main\AndroidManifest.xml
+INJECTED from R:\Pace\Mobile App Development\CloneToUpload\ScrollingText\app\src\main\AndroidManifest.xml
+INJECTED from R:\Pace\Mobile App Development\CloneToUpload\ScrollingText\app\src\main\AndroidManifest.xml
 	tools:overrideLibrary
 		ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\12019\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\7729f0fe31bfdbdec4bc43b7ec2a48d8\AndroidManifest.xml:23:9-75
 	android:targetSdkVersion
-		INJECTED from R:\Pace\Mobile App Development\Assignment\ScrollingText\app\src\main\AndroidManifest.xml
-		ADDED from R:\Pace\Mobile App Development\Assignment\ScrollingText\app\src\main\AndroidManifest.xml
-		INJECTED from R:\Pace\Mobile App Development\Assignment\ScrollingText\app\src\main\AndroidManifest.xml
+		INJECTED from R:\Pace\Mobile App Development\CloneToUpload\ScrollingText\app\src\main\AndroidManifest.xml
+		ADDED from R:\Pace\Mobile App Development\CloneToUpload\ScrollingText\app\src\main\AndroidManifest.xml
+		INJECTED from R:\Pace\Mobile App Development\CloneToUpload\ScrollingText\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from R:\Pace\Mobile App Development\Assignment\ScrollingText\app\src\main\AndroidManifest.xml
-		ADDED from R:\Pace\Mobile App Development\Assignment\ScrollingText\app\src\main\AndroidManifest.xml
-		INJECTED from R:\Pace\Mobile App Development\Assignment\ScrollingText\app\src\main\AndroidManifest.xml
+		INJECTED from R:\Pace\Mobile App Development\CloneToUpload\ScrollingText\app\src\main\AndroidManifest.xml
+		ADDED from R:\Pace\Mobile App Development\CloneToUpload\ScrollingText\app\src\main\AndroidManifest.xml
+		INJECTED from R:\Pace\Mobile App Development\CloneToUpload\ScrollingText\app\src\main\AndroidManifest.xml
 meta-data#android.support.VERSION
 ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\12019\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\7729f0fe31bfdbdec4bc43b7ec2a48d8\AndroidManifest.xml:26:9-28:38
 MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\12019\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\b62b9568cfad570e385066849735c24a\AndroidManifest.xml:23:9-25:38
